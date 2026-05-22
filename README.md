@@ -21,10 +21,12 @@ La pieza busca generar una sensación de movimiento y transformación continua a
 **Código**
 
 
-![texto alternativo imagen](FOLDER/Código.png)
+![texto alternativo imagen](FOLDER/Codigo.png)
 
 
 **Diagrama de Flujo**
+
+![texto alternativo imagen](FOLDER/.png)
 
 
 **Input y Output del sistema**
