@@ -16,9 +16,11 @@ Si bien no es tan parecido esta es la obra en la cual me guié.
 80,6 x 80,6 cm.
 Ejecutado en 1974.*
 
-![texto alternativo imagen](FOLDER/imagen1.png) 
+**Mi trabajo**
 
-![texto alternativo imagen](FOLDER/imagen2.png)
+![texto alternativo imagen](FOLDER/Imagen1.png) 
+
+![texto alternativo imagen](FOLDER/Imagen2.png)
 
 
 
