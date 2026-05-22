@@ -19,6 +19,7 @@ La pieza busca generar una sensación de movimiento y transformación continua a
 
 
 **Código**
+![texto alternativo imagen](FOLDER/Imagenes/Código.png)
 
 
 **Diagrama de Flujo**
