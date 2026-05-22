@@ -45,9 +45,13 @@ La pieza busca generar una sensación de movimiento y transformación continua a
 ![texto alternativo imagen](FOLDER/Codigo.png)
 
 
-**Diagrama de Flujo**
+**Input y Output del sistema**
+
+[Link a Figma](https://www.figma.com/board/Fi36u0dazhWP3UQwJ2pKki/Te-damos-la-bienvenida-a-FigJam?node-id=0-1&t=ILlLIJpSHexL8kpF-1)
+
+
 
 ![texto alternativo imagen](FOLDER/diagrama1.png)
 
 
-**Input y Output del sistema**
+
