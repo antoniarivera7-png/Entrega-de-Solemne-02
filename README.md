@@ -26,7 +26,7 @@ La pieza busca generar una sensación de movimiento y transformación continua a
 
 **Diagrama de Flujo**
 
-![texto alternativo imagen](FOLDER/.png)
+![texto alternativo imagen](FOLDER/diagrama.png)
 
 
 **Input y Output del sistema**
