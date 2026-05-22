@@ -1,11 +1,28 @@
 # Entrega-de-Solemne-02
-Este es el repositorio en donde Explico y muestro el trabajo que hice para esta segunda entrega en  Pensamiento Computacional
 
 
 **Información del proyecto**
 
 
-Este proyecto está inspirado en el **Diseño Generativo** 
+Este proyecto está inspirado en **Victor Vasarely**, el llegó a ser uno de los líderes del Arte Óptico en Europa. Abandonó los estudios de medicina a los veinte años para dedicarse al arte. Se trasladó a París, donde tuvo bastante éxito como diseñador gráfico en publicidad antes de entregarse a la pintura. 
+Si bien no es tan parecido esta es la obra en la cual me guié.
+
+![texto alternativo imagen](FOLDER/referente.png)
+
+**"Agev" (1974)**
+
+
+*acrílico sobre lienzo
+80,6 x 80,6 cm.
+Ejecutado en 1974.*
+
+![texto alternativo imagen](FOLDER/imagen1.png) 
+
+![texto alternativo imagen](FOLDER/imagen2.png)
+
+
+
+
 
 
 **Descripción Objetiva**
