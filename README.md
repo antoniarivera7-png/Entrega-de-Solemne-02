@@ -20,13 +20,15 @@ La pieza busca generar una sensación de movimiento y transformación continua a
 
 **Código**
 
+[Link a p5.js](https://editor.p5js.org/antonia.rivera7/sketches/_soccj-_p)
+
 
 ![texto alternativo imagen](FOLDER/Codigo.png)
 
 
 **Diagrama de Flujo**
 
-![texto alternativo imagen](FOLDER/diagrama.png)
+![texto alternativo imagen](FOLDER/diagrama1.png)
 
 
 **Input y Output del sistema**
